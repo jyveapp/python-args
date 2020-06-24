@@ -1,0 +1,7 @@
+_extensions:
+- jinja2_time.TimeExtension
+_template: git@github.com:jyveapp/public-python-library-template.git
+_version: efd45a7fe43d4d902e773ae07dc842507847d22c
+module_name: arg
+repo_name: python-args
+short_description: Python argument design patterns in a composable interface.
