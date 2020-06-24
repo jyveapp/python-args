@@ -12,7 +12,7 @@ name = "python-args"
 packages = [
   { include = "arg" }
 ]
-version = "0.0.0"
+version = "1.0.0"
 description = "Python argument design patterns in a composable interface."
 authors = ["Wes Kendall"]
 classifiers = [
