@@ -14,7 +14,7 @@ packages = [
 ]
 version = "0.0.0"
 description = "Python argument design patterns in a composable interface."
-authors = ["Jyve Engineering"]
+authors = ["Wes Kendall"]
 classifiers = [
   "Intended Audience :: Developers",
   "Operating System :: OS Independent",
