@@ -64,9 +64,11 @@ def call():
 
     The current call is always set by the __call__ method of
     the Args class when invoking running.
+
+    If called outside of a python-args call, will return None
     """
     if not hasattr(_current_call, 'val'):
-        raise AssertionError('No python-args function is running.')
+        return None
 
     return _current_call.val
 

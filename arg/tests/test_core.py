@@ -6,6 +6,11 @@ import pytest
 import arg
 
 
+def test_call_outside_args():
+    """Tests arg.call() when no python-args func is running"""
+    assert arg.call() is None
+
+
 def test_basic_defaults_decorator(caplog):
     """Tests basic usage of arg.defaults decorator"""
 
