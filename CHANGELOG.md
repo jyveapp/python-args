@@ -1,4 +1,8 @@
 # Changelog
+## 1.0.1 (2020-06-28)
+### Trivial
+  - Added additional docs to the README [Wes Kendall, e6d2f12]
+
 ## 1.0.0 (2020-06-24)
 ### Api-Break
   - The initial release of python-args [Wes Kendall, 8705bbd]
