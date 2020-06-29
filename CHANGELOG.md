@@ -1,5 +1,9 @@
 # Changelog
-## 1.0.1 (2020-06-28)
+## 1.0.2 (2020-06-29)
+### Trivial
+  - Return None on arg.call when outside of python-args instead of an AssertionError [Wes Kendall, 294fb29]
+
+## 1.0.1 (2020-06-29)
 ### Trivial
   - Added additional docs to the README [Wes Kendall, e6d2f12]
 
